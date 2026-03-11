@@ -45,6 +45,13 @@ EX 6.1 - To simulate the Pre Processing for 3D printing.
 
 ## Output:
 
+<img width="1920" height="1200" alt="Screenshot 2026-03-11 162147" src="https://github.com/user-attachments/assets/3d2690e7-4ec1-4bc0-9613-efc731fcd4cd" />
+<img width="1920" height="1200" alt="Screenshot 2026-03-11 162203" src="https://github.com/user-attachments/assets/cea6554d-0161-48dd-8033-a962ddd5f0ee" />
+<img width="1906" height="1147" alt="Screenshot 2026-03-11 162227" src="https://github.com/user-attachments/assets/4d0a41c0-290b-4351-8a8a-cc60399a1db4" />
+<img width="1913" height="1109" alt="Screenshot 2026-03-11 162240" src="https://github.com/user-attachments/assets/5b9f13ed-ef37-44b7-ae8b-8647e503b078" />
+<img width="1919" height="1149" alt="Screenshot 2026-03-11 162303" src="https://github.com/user-attachments/assets/61f1ab38-a4c2-41e4-bd92-7c1c69fbddb6" />
+<img width="1919" height="1149" alt="Screenshot 2026-03-11 162303" src="https://github.com/user-attachments/assets/6bca58b5-cb5a-4a98-9bb7-49b01bf16eec" />
+
 
 ### Name:MOHAMED SAUDH R
 ### Register Number:212225240085
